@@ -10,3 +10,4 @@ keywords = ["cli", "assistant", "application"]
 
 [dependencies]
 pyu_rust_util = "0.1.64"
+time = "0.3.21"

@@ -1,6 +1,7 @@
 use std::io::{self, Write};
 use pyu_rust_util as pyu;
 
+
 fn main() {
     let cmds = ["exit", "help", "curl", "shell"];
     println!("Welcome to: ");
@@ -10,10 +11,15 @@ fn main() {
 ██████  ██    ██ ███████    ██    █████    ██    ███████ ███████ █████   
 ██   ██ ██    ██      ██    ██             ██    ██   ██      ██ ██  ██  
 ██   ██  ██████  ███████    ██             ██    ██   ██ ███████ ██   ██ 
+    ");
 
+    println!("
 
 
     ");
+
+
+    
 
     println!("Type 'help' for a list of commands.");
     loop {
